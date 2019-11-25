@@ -5,6 +5,7 @@
 \header {
   title = "Fingerwork Focus #1: Arpeggios"
   composer = "Joseph A. Diodato"
+  arranger = "Ex. 3 arranged by Alayna J."
   tagline = "Further reading: Rhythmic Fingerwork pg. 11-12 (Ex. 3-5)"  % removed
 }
 
@@ -55,14 +56,31 @@
 
 % ascending and descending arpeggios 
 { 
- \time 6/4
+ \time 6/8
  \hideKeySignature 
- G4^"Ex. 3 Ascending and descending arpeggios" b d b G2
- a4 c e c a2
- b4 d f d b2
- c4 e g e c2
- d4 f A f d2
- e4 g A g e2 \bar "||"
+ 
+ G8^"Ex. 3 Ascending and descending arpeggios" [b] d [b] G4
+ G8 [b] d [b] G4
+ a8 [c] e [c] a4
+ a8 [c] e [c] a4
+ b8 [d] f [d] b4
+ b8 [d] f [d] b4
+ c8 [e] g [e] c4
+ c8 [e] g [e] c4
+ d8 [f] A [f] d4
+ d8 [f] A [f] d4
+ e8 [g] A [g] e4
+ e8 [g] A [g] e4 \bar "||"
+ 
+ 
+ 
+ 
+ % G4 b d b G2
+%  a4 c e c a2
+%  b4 d f d b2
+%  c4 e g e c2
+%  d4 f A f d2
+%  e4 g A g e2 
  
 }
 
